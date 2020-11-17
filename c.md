@@ -4,3 +4,6 @@ venusaur
 charmander
 charmeleon
 charizard
+squirtle
+wartortle
+blastoise
