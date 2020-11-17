@@ -7,3 +7,6 @@ charizard
 squirtle
 wartortle
 blastoise
+caterpie
+metapod
+butterfree
