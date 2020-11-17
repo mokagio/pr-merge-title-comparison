@@ -1,3 +1,6 @@
 bulbasaur
 ivysaur
 venusaur
+charmander
+charmeleon
+charizard
