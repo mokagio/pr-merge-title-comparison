@@ -13,3 +13,4 @@ Add author label to blogpost metadata view (#123)
 ```
 
 :thinking_face:
+
